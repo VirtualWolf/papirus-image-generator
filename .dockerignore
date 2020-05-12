@@ -1,3 +1,8 @@
-fonts
 config.example.json
 node_modules
+README.md
+display.py
+docker-compose.yml
+Dockerfile
+.dockerignore
+.git*

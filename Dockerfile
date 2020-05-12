@@ -12,7 +12,7 @@ RUN mkdir -p /opt/build
 WORKDIR /opt/build
 COPY package*.json ./
 RUN npm install
-COPY app.js .
+COPY . .
 
 FROM base AS release
 RUN apk add --no-cache \
