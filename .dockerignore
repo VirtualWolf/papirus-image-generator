@@ -1,4 +1,4 @@
-config.example.json
+config*.json
 node_modules
 README.md
 display.py
@@ -6,3 +6,4 @@ docker-compose.yml
 Dockerfile
 .dockerignore
 .git*
+nodemon.json

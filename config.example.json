@@ -1,6 +1,4 @@
 {
-    "timezone": "Australia/Sydney",
-    "outdoorRestUrl": "http://example/rest/outdoor",
-    "indoorRestUrl": "http://example/rest/indoor",
-    "powerUsageRestUrl": "http://envoy/production.json?details=1"
+    "outdoor": "http://outdoor",
+    "indoor": "http://indoor"
 }
